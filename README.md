@@ -4,5 +4,5 @@ Tecnologias usadas:</p>
 Html<br>
 Css<br>
 JavaScript<br><br>
-<p>Api usada:</p>
+Api usada:
 Sheet Monkei
